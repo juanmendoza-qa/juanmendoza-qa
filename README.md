@@ -2,12 +2,11 @@
 
 ## QA Automation Engineer | SAP PP/MM Functional Consultant | Data & Logistics Background
 
-Ingeniero en Ciencias Gerenciales con **más de 15 años en operaciones, compras, logística y SAP PP/MM**, en transición activa hacia **QA Automation con Python**. Aporto algo poco común en QA junior: **visión de negocio + criterio funcional SAP + capacidad técnica en pruebas automatizadas de API y UI**.
+Ingeniero en Ciencias Gerenciales con **más de 15 años en operaciones, compras, logística y SAP PP/MM**, en transición activa hacia **QA Automation con Python**. Aporto algo poco común en QA Engineer: **visión de negocio + criterio funcional SAP + capacidad técnica en pruebas automatizadas de API y UI**.
 
-- 🔭 Actualmente: **proyecto final integrador completado**
-- 🧪 Intereses: API Testing, UI Automation, CI/CD, Testing en entornos SAP
-- 🌱 Aprendiendo: Playwright, Postman avanzado, Implementacion de RAG
-- 💬 Pregúntame sobre: pytest, requests, Selenium, POM, SAP PP/MM, Power BI, logística
+- 🔭 Actualmente: Trabajo en proyecto como Freelancer
+- 🧪 Intereses: API Testing, UI Automation, CI/CD, Testing en entornos SAP y ERP´s
+- 💬 Pregúntame sobre:  Playwright, Postman avanzado, Implementacion de RAG, pytest, requests, Selenium, POM, SAP PP/MM, Power BI, logística
 - 📫 Contacto: mendozagomez0203@gmail.com | [LinkedIn](https://www.linkedin.com/in/juan-o-mendoza-gomez-44700415b) | [Portafolio](https://juanmendoza-qa.github.io)
 
 ---
